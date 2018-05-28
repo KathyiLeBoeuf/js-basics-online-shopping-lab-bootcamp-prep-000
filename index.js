@@ -11,7 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
  let item = 
- { itemName: name, itemPrice: price };
+ { itemName: 'name', itemPrice: price };
 }
 
 function viewCart() {
