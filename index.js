@@ -2,9 +2,9 @@ var cart = [];
 let price = Math.floor(Math.random() * 100);
 let item = 
  { itemName: 'name', itemPrice: price };
- item.itemName1 = 'bananas', item.itemPrice1;
- item.itemName2 = 'pancake batter', item.itemPrice2;
- item.itemName3 = 'eggs', item.itemPrice3;
+ item.itemName1 = 'bananas', item.itemPrice1 = price;
+ item.itemName2 = 'pancake batter', item.itemPrice2 = price;
+ item.itemName3 = 'eggs', item.itemPrice3 = price;
  
 console.log(price);
 console.log(item);
