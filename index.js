@@ -1,9 +1,9 @@
 var cart = [];
 let item = 
  { itemName: 'name', itemPrice: 'price' };
- item.itemName = 'bananas', item.itemPrice = 17;
- item.itemName = 'pancake batter', item.itemPrice = 5;
- item.itemName = 'eggs', item.itemPrice2 = 49;
+ item.itemName1 = 'bananas', item.itemPrice1 = 17;
+ item.itemName2 = 'pancake batter', item.itemPrice2 = 5;
+ item.itemName3 = 'eggs', item.itemPrice3 = 49;
  
 console.log(item);
 
