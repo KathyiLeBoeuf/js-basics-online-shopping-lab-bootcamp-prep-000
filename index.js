@@ -1,6 +1,7 @@
 var cart = [];
 let item = 
  { itemName: 'name', itemPrice: price };
+ item.itemName.'bananas', item.itemPrice.17
 
 
 function getCart() {
