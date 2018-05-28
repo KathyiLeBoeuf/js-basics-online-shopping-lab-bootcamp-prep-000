@@ -1,6 +1,6 @@
 var cart = [];
 let item = 
- { itemName: 'name', itemPrice: price };
+ { itemName: 'name', itemPrice: 'price' };
  item.itemName = 'bananas', item.itemPrice = 17;
  item.itemName = 'pancake batter', item.itemPrice = 5;
  item.itemName = 'eggs', item.itemPrice2 = 49;
