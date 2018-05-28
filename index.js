@@ -5,7 +5,7 @@ let item =
  item.itemName = 'pancake batter', item.itemPrice = 5;
  item.itemName = 'eggs', item.itemPrice2 = 49;
  
-
+console.log(item);
 
 function getCart() {
  return cart;
