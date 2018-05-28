@@ -4,7 +4,7 @@ let item =
  item.itemName1 = 'bananas', item.itemPrice1 = 17;
  item.itemName2 = 'pancake batter', item.itemPrice2 = 5;
  item.itemName3 = 'eggs', item.itemPrice3 = 49;
- 
+ let price = Math.floor(Math.random() * 100);
 console.log(item);
 
 function getCart() {
