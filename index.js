@@ -7,6 +7,7 @@ let item =
  item.itemName3 = 'eggs', item.itemPrice3;
  
 console.log(price);
+console.log(item);
 
 function getCart() {
  return cart;
